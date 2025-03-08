@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { useEffect, useState } from "react";
 import axios from "axios";
@@ -15,4 +14,4 @@ function App() {
   return <h1>{message}</h1>;
 }
 
-export default App;
+export default App; 
